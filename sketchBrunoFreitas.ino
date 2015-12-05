@@ -1,4 +1,3 @@
-
 // Pins dos sensores de distancia
 #define pin1 A1
 #define pin2 A2
@@ -15,7 +14,6 @@ int M2 = 7;    //M1 Direction Control
 int rightSpeed;
 int leftSpeed;
 int turnTime = 0;
-
 
 void setup () {
         int i;
